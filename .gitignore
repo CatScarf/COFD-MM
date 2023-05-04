@@ -1,0 +1,14 @@
+.DS_Store
+.mypy_cache
+.vscode
+
+*.csv
+*.txt
+*.out
+*.svg
+*.log
+*.png
+*.pdf
+
+cache
+__pycache__
