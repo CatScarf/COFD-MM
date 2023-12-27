@@ -1,5 +1,7 @@
 # Readme
 
+This repository contains the code for the ACM MM 2023 paper "[Collaborative Fraud Detection: How Collaboration Impacts Fraud Detection.](https://dl.acm.org/doi/10.1145/3581783.3613780)"
+
 ## Required packages
 
 ```
